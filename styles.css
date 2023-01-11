@@ -93,6 +93,7 @@ hr {
 
 section {
     margin-top: auto;
+    margin: 4em 0 4em 0;
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -126,7 +127,7 @@ section {
 }
 
 .link {
-    margin: 1.5em 0 2em 0;
+    margin: 1.5em 0 3em 0;
 }
 
 .nav1,
@@ -225,11 +226,10 @@ footer {
 
     section {
         flex-direction: column;
-        padding-top: 3.5em;
     }
 
     .about-me {
-        margin: 1.5em 1em 4em 1em;
+        margin: 1.5em 1em 0 1em;
     }
 
     .foot-content {
