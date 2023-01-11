@@ -79,7 +79,7 @@ a {
     font-size: large;
     color: #FFFFFF;
     text-decoration: none;
-    transition: background-color 0.25s ease-in;
+    transition: color 0.25s ease-in, background-color 0.25s ease-in;
 }
 
 .navbar-links a:hover {
